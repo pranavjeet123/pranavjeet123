@@ -1,7 +1,9 @@
+![Pranavjeet Mishra](./assets/banner.svg)
+
 # Hi, I'm Pranavjeet 👋
 
 **Full Stack Solution Architect · AI Engineer · Individual Contributor**  
-*14 years building enterprise systems that scale, perform, and last.*
+_14 years building enterprise systems that scale, perform, and last._
 
 ---
 
@@ -26,12 +28,12 @@
 
 ## 🏗️ Enterprise Experience
 
-| Client | Platform | Scale |
-|---|---|---|
-| JPMorgan Chase | Graphite Design System | 12M+ MAU |
-| Tesco | TILL Platform | 8.5M+ daily transactions |
-| Bupa | Swift Modernisation · Dynamics 365 MFE | Enterprise |
-| Datamatics | KrishiAI · MedGemma Dental AI | Production |
+| Client         | Platform                               | Scale                    |
+| -------------- | -------------------------------------- | ------------------------ |
+| JPMorgan Chase | Graphite Design System                 | 12M+ MAU                 |
+| Tesco          | TILL Platform                          | 8.5M+ daily transactions |
+| Bupa           | Swift Modernisation · Dynamics 365 MFE | Enterprise               |
+| Datamatics     | KrishiAI · MedGemma Dental AI          | Production               |
 
 ---
 
@@ -52,4 +54,4 @@
 
 ---
 
-> *"A good architect codes. A good engineer thinks in systems."*
+> _"A good architect codes. A good engineer thinks in systems."_

@@ -1,0 +1,137 @@
+<svg width="850" height="320" viewBox="0 0 850 320" xmlns="http://www.w3.org/2000/svg" role="img" fill="none" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Pranavjeet Mishra — Full Stack Solution Architect &amp; AI Engineer</title>
+  <desc>Animated banner showing role, tech stack, and key engineering stats.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="55%" stop-color="#0d1326"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="barg" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#38bdf8" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="850" height="320" rx="18"/></clipPath>
+    <clipPath id="typeclip"><rect x="124" y="106" width="0" height="22"><animate attributeName="width" values="0;0;520;520" keyTimes="0;0.12;0.75;1" dur="5s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="850" height="320" fill="url(#bg)"/>
+    <rect width="850" height="320" fill="url(#grid)"/>
+    <circle cx="760" cy="30" r="150" fill="url(#orb1)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="150;170;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="40" cy="300" r="120" fill="url(#orb2)">
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="120;145;120" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="170" r="90" fill="url(#orb3)">
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="0" y="0" width="850" height="3" fill="url(#accent)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <g>
+      <circle cx="62" cy="68" r="30" fill="url(#accent)">
+        <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="62" cy="68" r="33" fill="none" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="1.5">
+        <animate attributeName="r" values="33;37;33" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.5;0.1;0.5" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="62" y="76" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff" font-family="'Courier New', monospace">PM</text>
+    </g>
+    <text x="110" y="58" font-size="28" font-weight="700" fill="#f1f5f9" letter-spacing="-0.5">Pranavjeet Mishra</text>
+    <text x="110" y="82" font-size="14" font-weight="400" fill="#94a3b8" font-family="'Courier New', monospace">Full Stack Solution Architect &#183; <tspan fill="#38bdf8">AI Engineer</tspan> &#183; Individual Contributor</text>
+    <text x="110" y="122" font-size="14" fill="#10b981" font-family="'Courier New', monospace">&#62;</text>
+    <g clip-path="url(#typeclip)">
+      <text x="124" y="122" font-size="14" fill="#10b981" font-family="'Courier New', monospace">const architect = build(scalable, maintainable, tested);</text>
+    </g>
+    <rect x="124" y="110" width="8" height="15" fill="#10b981">
+      <animate attributeName="x" values="124;124;640;640" keyTimes="0;0.12;0.75;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <g font-family="'Courier New', monospace">
+      <rect x="110" y="142" width="120" height="58" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text x="170" y="172" text-anchor="middle" font-size="22" font-weight="700" fill="#38bdf8">14+</text>
+      <text x="170" y="190" text-anchor="middle" font-size="10" fill="#64748b">YEARS XP</text>
+      <rect x="240" y="142" width="120" height="58" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text x="300" y="172" text-anchor="middle" font-size="22" font-weight="700" fill="#818cf8">1K+</text>
+      <text x="300" y="190" text-anchor="middle" font-size="10" fill="#64748b">LINES / DAY</text>
+      <rect x="370" y="142" width="120" height="58" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text x="430" y="172" text-anchor="middle" font-size="22" font-weight="700" fill="#10b981">83</text>
+      <text x="430" y="190" text-anchor="middle" font-size="10" fill="#64748b">REPOS</text>
+      <rect x="500" y="142" width="120" height="58" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text x="560" y="172" text-anchor="middle" font-size="22" font-weight="700" fill="#a855f7">332</text>
+      <text x="560" y="190" text-anchor="middle" font-size="10" fill="#64748b">COMMITS / YR</text>
+    </g>
+    <g font-family="'Courier New', monospace" font-size="11" font-weight="700">
+      <g>
+        <rect x="110" y="218" width="74" height="24" rx="12" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.3"/>
+        <text x="147" y="234" text-anchor="middle" fill="#38bdf8">Next.js</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <rect x="192" y="218" width="92" height="24" rx="12" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.3"/>
+        <text x="238" y="234" text-anchor="middle" fill="#818cf8">TypeScript</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <rect x="292" y="218" width="68" height="24" rx="12" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.3"/>
+        <text x="326" y="234" text-anchor="middle" fill="#c084fc">NestJS</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" begin="1s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <rect x="368" y="218" width="82" height="24" rx="12" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.3"/>
+        <text x="409" y="234" text-anchor="middle" fill="#10b981">Supabase</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <rect x="458" y="218" width="88" height="24" rx="12" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.3"/>
+        <text x="502" y="234" text-anchor="middle" fill="#fbbf24">Claude API</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" begin="2s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <rect x="554" y="218" width="70" height="24" rx="12" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.3"/>
+        <text x="589" y="234" text-anchor="middle" fill="#38bdf8">React</text>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="3s" begin="2.5s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="110" y="270" font-size="10" fill="#64748b" font-family="'Courier New', monospace">DAILY COMMIT ACTIVITY</text>
+    <g>
+      <rect x="110" y="278" width="9" height="26" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;26" dur="0.8s" fill="freeze"/><animate attributeName="y" values="304;278" dur="0.8s" fill="freeze"/></rect>
+      <rect x="123" y="286" width="9" height="18" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;18" dur="0.8s" begin="0.05s" fill="freeze"/><animate attributeName="y" values="304;286" dur="0.8s" begin="0.05s" fill="freeze"/></rect>
+      <rect x="136" y="272" width="9" height="32" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;32" dur="0.8s" begin="0.1s" fill="freeze"/><animate attributeName="y" values="304;272" dur="0.8s" begin="0.1s" fill="freeze"/></rect>
+      <rect x="149" y="282" width="9" height="22" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;22" dur="0.8s" begin="0.15s" fill="freeze"/><animate attributeName="y" values="304;282" dur="0.8s" begin="0.15s" fill="freeze"/></rect>
+      <rect x="162" y="268" width="9" height="36" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;36" dur="0.8s" begin="0.2s" fill="freeze"/><animate attributeName="y" values="304;268" dur="0.8s" begin="0.2s" fill="freeze"/></rect>
+      <rect x="175" y="284" width="9" height="20" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;20" dur="0.8s" begin="0.25s" fill="freeze"/><animate attributeName="y" values="304;284" dur="0.8s" begin="0.25s" fill="freeze"/></rect>
+      <rect x="188" y="274" width="9" height="30" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;30" dur="0.8s" begin="0.3s" fill="freeze"/><animate attributeName="y" values="304;274" dur="0.8s" begin="0.3s" fill="freeze"/></rect>
+      <rect x="201" y="290" width="9" height="14" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;14" dur="0.8s" begin="0.35s" fill="freeze"/><animate attributeName="y" values="304;290" dur="0.8s" begin="0.35s" fill="freeze"/></rect>
+      <rect x="214" y="270" width="9" height="34" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;34" dur="0.8s" begin="0.4s" fill="freeze"/><animate attributeName="y" values="304;270" dur="0.8s" begin="0.4s" fill="freeze"/></rect>
+      <rect x="227" y="280" width="9" height="24" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;24" dur="0.8s" begin="0.45s" fill="freeze"/><animate attributeName="y" values="304;280" dur="0.8s" begin="0.45s" fill="freeze"/></rect>
+      <rect x="240" y="266" width="9" height="38" rx="2" fill="url(#barg)" opacity="0.5"><animate attributeName="height" values="0;38" dur="0.8s" begin="0.5s" fill="freeze"/><animate attributeName="y" values="304;266" dur="0.8s" begin="0.5s" fill="freeze"/></rect>
+      <rect x="253" y="282" width="9" height="22" rx="2" fill="url(#barg)" opacity="0.7"><animate attributeName="height" values="0;22" dur="0.8s" begin="0.55s" fill="freeze"/><animate attributeName="y" values="304;282" dur="0.8s" begin="0.55s" fill="freeze"/></rect>
+    </g>
+    <text x="280" y="298" font-size="11" fill="#475569" font-family="'Courier New', monospace">avg <tspan fill="#10b981" font-weight="700">1,000+ lines/day</tspan> &#183; clean &#183; tested &#183; extensible</text>
+  </g>
+</svg>

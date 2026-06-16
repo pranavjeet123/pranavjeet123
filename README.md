@@ -11,8 +11,8 @@ _14 years building enterprise systems that scale, perform, and last._
 
 - **Full Stack Platforms** — Next.js · React · NestJS · Supabase · PostgreSQL · TypeScript
 - **Micro-Frontend Architecture** — Nx monorepo · Rspack Module Federation · RxJS · Lit Element
-- **AI-Driven Applications** — Claude API · MedGemma · LangChain · Multi-agent systems · RAG
-- **Enterprise Integrations** — Dynamics 365 · Power Platform · PCF · Bupa · JPMorgan Graphite
+- **AI-Driven Applications** — MCP· n8n · LangChain · Multi-agent systems · RAG · ML Pipeline
+- **Enterprise Apps** — ·Microsoft · Google- OneID · Adobe · Dell · Bupa · JPMorgan Graphite · Schneider Electric
 
 ---
 
